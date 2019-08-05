@@ -1,0 +1,8 @@
+name: EndPortalBugFixer
+version: @version@
+main: club.kid7.endportalbugfixer.EndPortalBugFixer
+api-version: 1.13
+prefix: EndPortalBugFixer
+authors: [jyhsu]
+description: Fix end portal destruction bug
+website: https://kid7.club/
