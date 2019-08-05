@@ -5,8 +5,8 @@ Fix end portal destruction bug
 
 ## Without this plugin
 Players can destroy end portal using bucket  
-![Without EndPortalBugFixer](https://i.imgur.com/CLA4gxB.gif)
+![Without EndPortalBugFixer](https://i.imgur.com/R1SesI7.gif)
 
 ## With this plugin
 Players cannot destroy end portal  
-![With EndPortalBugFixer](https://i.imgur.com/ghALN2J.gif)
+![With EndPortalBugFixer](https://i.imgur.com/svs5hj5.gif)
