@@ -1,8 +1,23 @@
 name: EndPortalBugFixer
-version: @version@
+version: 1.0.1
 main: club.kid7.endportalbugfixer.EndPortalBugFixer
 api-version: 1.13
 prefix: EndPortalBugFixer
 authors: [jyhsu]
 description: Fix end portal destruction bug
 website: https://kid7.club/
+contributors: [arboriginal]
+
+commands:
+  EndPortalBugFixer-reload:
+    description: Reload plugin configuration
+    permission: EndPortalBugFixer.reload
+
+permissions:
+  EndPortalBugFixer.bypass:
+    description: Allows to break end portal blocks
+    default: op
+
+  EndPortalBugFixer.reload:
+    description: Allows to reload the configuration
+    default: op
