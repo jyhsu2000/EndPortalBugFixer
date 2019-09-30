@@ -9,7 +9,7 @@ import org.bukkit.event.player.PlayerInteractEvent;
 import org.bukkit.inventory.ItemStack;
 
 class PlayerListener implements Listener {
-    @EventHandler
+    @EventHandler(ignoreCancelled = true)
     void onPlayerInteract(PlayerInteractEvent event) {
         //右鍵點擊方塊
         if (!event.getAction().equals(Action.RIGHT_CLICK_BLOCK) || event.getClickedBlock() == null) {
