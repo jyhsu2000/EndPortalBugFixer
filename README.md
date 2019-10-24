@@ -1,5 +1,7 @@
 # EndPortalBugFixer
 Fix end portal destruction bug  
+(This bug is known as `MC-11944` and already fixed in `19w35a`.  
+ Check the bug exists before installing this plugin.)  
 [Click here if any image is not shown](https://imgur.com/a/WZYtoBp)
 ![Cover](https://i.imgur.com/b9utqoi.png)
 
